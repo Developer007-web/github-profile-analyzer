@@ -295,8 +295,7 @@ Structured JSON Responses
 
 **Aman Pratap Singh**
 
-GitHub:
-[Developer007-web](https://github.com/Developer007-web?utm_source=chatgpt.com)
+Searching for Job
 
 ---
 
